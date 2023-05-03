@@ -6,5 +6,5 @@ public class Main {
         int oneMiles = 20;
         int bonusMiles = tiket / oneMiles;
         System.out.println("Ваш бонус составляет: " + bonusMiles);
-    }git
+    }
 }
